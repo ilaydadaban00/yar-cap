@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\bin\Debug\yarıçapı girilen dairenin alanı va cevresi.exe.config
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\bin\Debug\yarıçapı girilen dairenin alanı va cevresi.exe
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\bin\Debug\yarıçapı girilen dairenin alanı va cevresi.pdb
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı girilen dairenin alanı va cevresi.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı_girilen_dairenin_alanı_va_cevresi.Form1.resources
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı_girilen_dairenin_alanı_va_cevresi.Properties.Resources.resources
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı girilen dairenin alanı va cevresi.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı girilen dairenin alanı va cevresi.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı girilen dairenin alanı va cevresi.exe
+C:\Users\ben\source\repos\yarıçapı girilen dairenin alanı va cevresi\yarıçapı girilen dairenin alanı va cevresi\obj\Debug\yarıçapı girilen dairenin alanı va cevresi.pdb
